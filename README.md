@@ -1,6 +1,7 @@
 # blueprint-springboot
-
-### Esta es una plantilla base para la construccion de los proyectos en springboot
+```
+Blueprint Template for Springboot projects
+```
 
 - Versiones
     - Java 23
